@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/HelpDesk.Api/HelpDesk.Api.csproj" />
+    <Project Path="src/HelpDesk.Application/HelpDesk.Application.csproj" Id="04c063e1-ca6a-47a1-8b36-d9f838f9b765" />
+    <Project Path="src/HelpDesk.Domain/HelpDesk.Domain.csproj" Id="e5e9160a-f991-4a6c-92de-0ad407818ef9" />
+    <Project Path="src/HelpDesk.Infrastructure/HelpDesk.Infrastructure.csproj" Id="2000e007-9db0-46bc-8fea-2f831ca58ecd" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="test/HelpDesk.UnitTests/HelpDesk.UnitTests.csproj" Id="14673e55-8a20-4098-8ae7-2c55ff68e758" />
+  </Folder>
+</Solution>
